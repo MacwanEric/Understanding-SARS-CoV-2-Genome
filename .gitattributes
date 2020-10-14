@@ -1,3 +1,2 @@
 * linguist-documentation=false
-*.html linguist-language=Python
 *.ipynb linguist-language=Python
